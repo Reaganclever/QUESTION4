@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+
+
+
+<employee><id>EMP001</id><name>KASULE JOHN REAGAN</name><age>59</age><department>IT</department></employee><employee><id>EMP002</id><name>KALUNJI JOE RODNEY</name><age>09</age><department>CS</department></employee><employee><id>EMP003</id><name>NAKAWOOYA JANE LYNET</name><age>16</age><department>IT</department></employee></employees>
